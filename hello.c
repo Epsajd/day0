@@ -15,14 +15,15 @@ int main()
 
 	int z = x+y;
 
-	printf("Hello World!! %d", z);
+	printf("Hello World!! %d + %d = %d",x,y,z);
 
 	return 0;
 
 	// in gnu editor
 	// gcc the name of the text file. (make sure in same directory)
 	// it should create an exe file 
-	// then you can run executable with ./
-	
+	// then you can run executable with ./a.exe
+
 }
+
 
